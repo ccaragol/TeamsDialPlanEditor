@@ -12,7 +12,7 @@ Reorder the normalization rules by priority
 
 New features coming include:
 
-Enter and extension range and generate a normalization rol.
+Enter and extension range and generate a normalization rule.
 Maybe assign the dial plan to a single or group of users?
 Signing the code so it just runs without a warning
 Error catching (yeah, it's not there, early version)
